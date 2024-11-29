@@ -1,7 +1,3 @@
-Certainly! Below is the updated **README.md** with a link to the Russian version, and the prepared **readmeru.md** (the Russian version of the README).
-
----
-
 # 🌿 ESP32-Based Air Quality Monitoring Station 🌿
 
 <img src="https://github.com/user-attachments/assets/8db90330-ebba-4bf1-82b8-e2c0cf1ace0f" width="33%">
