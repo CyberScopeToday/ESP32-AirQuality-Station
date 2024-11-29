@@ -203,9 +203,3 @@ This project is licensed under the **MIT** License. See [LICENSE](LICENSE) for d
 You can find the Russian version of this README [here](readmeru.md).
 
 ---
-
-# 📁 Russian Version (readmeru.md)
-
-Below is the prepared Russian version of the README, saved as **readmeru.md**.
-
----
