@@ -1,5 +1,7 @@
 # 🌿 ESP32-Based Air Quality Monitoring Station 🌿
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5382b64bc5b4619a6779507659a8db3)](https://app.codacy.com/gh/CyberScopeToday/ESP32-AirQuality-Station?utm_source=github.com&utm_medium=referral&utm_content=CyberScopeToday/ESP32-AirQuality-Station&utm_campaign=Badge_Grade)
+
 <img src="https://github.com/user-attachments/assets/8db90330-ebba-4bf1-82b8-e2c0cf1ace0f" width="33%">
 
 > **An IoT project for monitoring temperature, humidity, and air quality with a user-friendly interface, RGB indication, and control via a Telegram bot.** 🎉
