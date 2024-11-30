@@ -1,5 +1,7 @@
 # 🌿 ESP32-Based Air Quality Monitoring Station 🌿
 
+[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/esp32-airquality-station/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/esp32-airquality-station)
+
 <img src="https://github.com/user-attachments/assets/8db90330-ebba-4bf1-82b8-e2c0cf1ace0f" width="33%">
 
 > **An IoT project for monitoring temperature, humidity, and air quality with a user-friendly interface, RGB indication, and control via a Telegram bot.** 🎉
