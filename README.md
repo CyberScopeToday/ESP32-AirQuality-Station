@@ -62,6 +62,16 @@ This air quality monitoring station measures:
 
 ---
 
+## 🏠 3D-Printed Enclosure  
+
+To securely house and protect all components, you can use a **3D-printed enclosure**, available at the following link:  
+**[3D-Printed Enclosure on Thingiverse](https://www.thingiverse.com/thing:5810438)**  
+
+Key benefits of using this enclosure:  
+- **Reliable protection** for sensors and the ESP32 board from external factors.  
+- **Easy access** to the OLED display, connectors, and LED.  
+- **Customizable design**: modify and reprint the enclosure as needed.
+
 ## ⚙️ Components
 
 - 🪣 **ESP32 DevKit**
