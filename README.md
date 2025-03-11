@@ -174,7 +174,7 @@ All data collected by the ESP32 Air Quality Monitoring Station is sent to **Thin
 ### 🌟 Live Dashboard Example
 
 Explore a real-time example of air quality data visualization on ThingSpeak:  
-**[ThingSpeak Channel - Air Quality Monitor](https://thingspeak.mathworks.com/channels/991348)**
+**[ThingSpeak Channel - Air Quality Monitor](https://thingspeak.mathworks.com/channels/971678)**
 
 ### 📊 Charts Available:
 
@@ -189,7 +189,7 @@ Explore a real-time example of air quality data visualization on ThingSpeak:
 
 ### 🔗 How to Access
 
-1. Open the **[ThingSpeak Channel](https://thingspeak.mathworks.com/channels/991348)**.
+1. Open the **[ThingSpeak Channel](https://thingspeak.mathworks.com/channels/971678)**.
 2. Use the **charts** to view real-time air quality data updated every 5 minutes.
 3. Analyze trends, download datasets, or integrate the data into your own applications using ThingSpeak's API.
 
