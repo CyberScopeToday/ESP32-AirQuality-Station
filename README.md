@@ -1,14 +1,13 @@
+> **Language:**  
+> [English](./README.md) | [Русский (Russian)](./readmeru.md)
+
 # 🌿 ESP32-Based Air Quality Monitoring Station 🌿
 
 [![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/esp32-airquality-station/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/esp32-airquality-station)
 
-<img src="https://github.com/user-attachments/assets/8db90330-ebba-4bf1-82b8-e2c0cf1ace0f" width="33%">
+<img src="https://github.com/user-attachments/assets/a34aa62d-067f-4a44-b4aa-49bd7169f400" width="33%">
 
 > **An IoT project for monitoring temperature, humidity, and air quality with a user-friendly interface, RGB indication, and control via a Telegram bot.** 🎉
-
----
-
-**[🇷🇺 Click here for the Russian version of the README (Нажмите здесь для русской версии README)](readmeru.md)**
 
 ---
 
@@ -59,7 +58,7 @@ This air quality monitoring station measures:
 
 ### 📟 Example of Data Display on the OLED Screen
 
-<img src="https://github.com/user-attachments/assets/b03e0ae0-c027-4d38-8eed-2e1c358e847b" width="20%">
+<img src="https://github.com/user-attachments/assets/0f20f1a7-1246-4022-850d-11b38bbfb43d" width="30%">
 
 ---
 
@@ -154,7 +153,7 @@ Replace the placeholder values with your actual credentials:
 
 ## 📸 Device Photos
 
-<img src="https://github.com/user-attachments/assets/daf3410a-e842-46be-a4cd-a2c22c1daa27" width="40%">
+<img src="https://github.com/user-attachments/assets/a64a5f38-b189-46e8-bbed-97d3fb1d9b5f" width="40%">
 
 ---
 
@@ -197,11 +196,5 @@ This project is licensed under the **MIT** License. See [LICENSE](LICENSE) for d
 - 📕 [ESP32 Documentation](https://www.espressif.com/en/products/socs/esp32/resources)
 - 🌐 [ThingSpeak API](https://thingspeak.com)
 - 🤖 [Creating a Telegram Bot](https://core.telegram.org/bots)
-
----
-
-# 🇷🇺 Русская версия README
-
-You can find the Russian version of this README [here](readmeru.md).
 
 ---
