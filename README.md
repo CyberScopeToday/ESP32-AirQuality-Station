@@ -3,7 +3,7 @@
 
 # 🌿 ESP32-Based Air Quality Monitoring Station 🌿
 
-[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/esp32-airquality-station/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/esp32-airquality-station)
+[![CodeFactor](https://www.codefactor.io/repository/github/CyberScoper/esp32-airquality-station/badge)](https://www.codefactor.io/repository/github/CyberScoper/esp32-airquality-station)
 
 <img src="https://github.com/user-attachments/assets/a34aa62d-067f-4a44-b4aa-49bd7169f400" width="33%">
 
